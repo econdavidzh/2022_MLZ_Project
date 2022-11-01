@@ -3,31 +3,19 @@
 This project has been created to practice what's been studied in the 2022 Machine Learning Zoomcamp by Alexey Grigorev.
 
 ## About the dataset:
+https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
-### Source: 
-https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
+## Data Set Information:
 
-### Creator:
-Dr. WIlliam H. Wolberg (physician)
-University of Wisconsin Hospitals
-Madison, Wisconsin, USA
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. A few of the images can be found at [Web Link]
 
-### Donor:
-Olvi Mangasarian (mangasarian '@' cs.wisc.edu)
-Received by David W. Aha (aha '@' cs.jhu.edu)
+Separating plane described above was obtained using Multisurface Method-Tree (MSM-T) [K. P. Bennett, "Decision Tree Construction Via Linear Programming." Proceedings of the 4th Midwest Artificial Intelligence and Cognitive Science Society, pp. 97-101, 1992], a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1-4 features and 1-3 separating planes.
 
-### Data Set Information:
-Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself:
+The actual linear program used to obtain the separating plane in the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
-- Group 1: 367 instances (January 1989)
-- Group 2: 70 instances (October 1989)
-- Group 3: 31 instances (February 1990)
-- Group 4: 17 instances (April 1990)
-- Group 5: 48 instances (August 1990)
-- Group 6: 49 instances (Updated January 1991)
-- Group 7: 31 instances (June 1991)
-- Group 8: 86 instances (November 1991)
-- Total: 699 points (as of the donated datbase on 15 July 1992)
+This database is also available through the UW CS ftp server:
+ftp ftp.cs.wisc.edu
+cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 ### Variables included in the dataset:
 - **id**: ID number
