@@ -2,7 +2,7 @@
 
 ![FNA](https://github.com/econdavidzh/2022_MLZ_Project/blob/main/Images/FNA.png?raw=true)
 
-Source: https://www.researchgate.net/figure/Captured-images-of-layers-of-glass-with-smears-of-breast-mass-obtained-by-FNA-the-parts_fig3_232811011
+Image source: https://www.researchgate.net/figure/Captured-images-of-layers-of-glass-with-smears-of-breast-mass-obtained-by-FNA-the-parts_fig3_232811011
 
 This project has been created to practice what's been studied in the 2022 Machine Learning Zoomcamp by Alexey Grigorev.
 
