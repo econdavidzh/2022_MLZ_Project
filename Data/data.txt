@@ -35,3 +35,5 @@ All feature values are recoded with four significant digits.
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
+
+Source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
