@@ -1,2 +1,4 @@
-# 2022_MLZ_Project
-2022 Machine Learning Zoomcamp Project: Cancer detection with image features in a logistic regression 
+# Cancer detection with image features in a logistic regression 
+
+This project has been created to practice what's been studied in the 2022 Machine Learning Zoomcamp by Alexey Grigorev.
+
