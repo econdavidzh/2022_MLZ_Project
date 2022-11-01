@@ -1,5 +1,7 @@
 # Breast Cancer Detection from image features
 
+![FNA](https://github.com/econdavidzh/2022_MLZ_Project/blob/main/Images/FNA.png?raw=true)
+
 This project has been created to practice what's been studied in the 2022 Machine Learning Zoomcamp by Alexey Grigorev.
 
 ## About the dataset:
