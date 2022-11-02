@@ -1,3 +1,7 @@
 streamlit
 pandas
 numpy
+pingouin
+seaborn
+matplotlib.pyplot
+missingno
